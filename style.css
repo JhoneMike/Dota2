@@ -7,8 +7,40 @@ body{
     background: linear-gradient(rgb(131, 21, 21),rgb(121, 10, 10),rgb(65, 1, 1));
 }
 
+header{
+    background: black;
+    color: darkgray;
+    padding: 40px;
+}
+
 header h1{
-    font-size: 40px;
+    font-size: 100px;
     margin-left: 50px;
     color: darkgray;
+}
+
+header p{
+    font-size: 25px;
+    margin-left: 50px;
+    display: inline-block;
+}
+
+nav{
+    position: absolute;
+    right: 0;
+    top: 140px;
+}
+
+header ul li{
+    display: inline-block;
+    margin: 0 0 0 20px;
+    font-size: 25px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+.historia{
+    
 }
