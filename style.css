@@ -37,8 +37,16 @@ header ul li{
     font-size: 25px;
 }
 
+main{
+    font-family: 'Source Serif Pro', serif;
+}
+
 h2{
     font-size: 30px;
+}
+
+p{
+    font-size: 20px;
 }
 
 .historia{
